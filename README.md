@@ -9,3 +9,4 @@ editace
 
 
 test 3. aktualizace přímo na GitHubu Branch 3
+v1.4
