@@ -6,3 +6,7 @@ zkouším si hrát s GitHubem
 
 A teď druhý pokus
 editace
+
+
+test 3. aktualizace přímo na GitHubu Branch 3
+v1.4
