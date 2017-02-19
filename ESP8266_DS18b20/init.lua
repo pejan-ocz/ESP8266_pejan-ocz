@@ -1,7 +1,7 @@
 print(wifi.sta.getip())
 wifi.setmode(wifi.STATION)
---wifi.sta.config("Linhart-TPLink","password")
-wifi.sta.config("JHW1","psw")
+--wifi.sta.config("SSID","password")
+wifi.sta.config("SSID","psw")
 
 -- wait for an IP
 cnt = 10
